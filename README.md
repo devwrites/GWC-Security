@@ -1,5 +1,5 @@
 # Girls Who Code 2018 - 2019
-This class will introduce girls (ages ~15) to Security in Software and Hardware
+This class will introduce girls (ages ~17) to Security in Software and Hardware
 
 ## Lesson 1 - Introduction to Security & Hardware
 Get the girls familiarized with what security is, why its important and how it ties into what we have done previously (building websites), introduce broad ideas of breaking and fixing. Main programming focus's will be Javascript and Python. Go over house rules 
